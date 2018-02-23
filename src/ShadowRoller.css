@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.diceImage {
+  height: 80px;
+}
+
+.center {
+  text-align: center;
+}
+.rollableDice {
+  max-width: 170px;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.flex-col {
+  flex: 1;
+  min-width: 100px;
+  max-width: 250px;
+  margin: 5px;
+}
